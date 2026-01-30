@@ -6,3 +6,5 @@
 | EXP-02       | Decision Tree | Max depth = 5   | Scaling             | Selected          | 80/20            | 0.98      | 0.98      |
 | EXP-03 | Decision Tree | Max depth = 7 | Scaling + Imputation | Selected | 80/20 | 0.99 | 0.99 |
 | EXP-04 | Decision Tree | Pruned Tree | Scaling | Selected | 80/20 | 0.98 | 0.99 |
+| EXP-03 | Decision Tree | Max depth = 7 | Scaling + Imputation | Selected | 80/20 | 0.99 | 0.99 |
+| EXP-04 | Decision Tree | Pruned Tree | Scaling | Selected | 80/20 | 0.98 | 0.99 |
